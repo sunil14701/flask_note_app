@@ -1,0 +1,6 @@
+(1) flask module will be used . flask is a super lightweight python framework that allows you to make website very quickly and really easily . it is not as powerful as django and flask is not used in production application . but flask will be helping you in teaching fundamental of web dev . MVP or simple applications
+
+(2)pip -> install a python package 
+ pip install flask
+ pip install flask-login # for logging users in
+ pip install flask-sqlalchemy # database , it makes it much easier to apply CRUD models
